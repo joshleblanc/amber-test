@@ -1,0 +1,6 @@
+{
+  "paths": {
+    "amber-test": "src",
+    "crayon": "node_modules/crayon/dist/lib/index"
+  }
+}
