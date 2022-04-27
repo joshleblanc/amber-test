@@ -42,7 +42,7 @@
   "devDependencies": {
     "@ambers/helios": "^0.11.6",
     "@ambers/sdk": "^0.12.1",
-    "grunt": "^1.0.3",
+    "grunt": "^1.5.2",
     "grunt-contrib-clean": "^1.1.0",
     "grunt-contrib-requirejs": "^1.0.0",
     "grunt-exec": "^3.0.0",
